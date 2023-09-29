@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@200&display=swap');
+.conteudo {
+    text-align: center; /* Centraliza horizontalmente o conteúdo */
+    max-width: 700px; /* Define a largura máxima do conteúdo */
+    margin: 0 auto; /* Centraliza a div horizontalmente na página */
+    padding: 50px; /* Espaçamento interno para o conteúdo */
+    color: black;
+    font-family: 'Public Sans', sans-serif;
+    
+    
+        
+    
+    
+
+}  
+body{
+    background-image: radial-gradient(circle, #6868ee, #9d5dde, #c052cb, #d94ab5, #ea479e, #ee4d9e, #f2529f, #f6589f, #f263b6, #eb6fcc, #e07ce0, #d289f2);
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+    
+   
+}
+ h2{
+    color: black;
+ }
+img{
+    width: 250px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+footer {
+    border: 2px solid #4e99d6;
+    border-radius: 12px;
+    padding: 5px;
+    
+    text-align: center;
+  }
